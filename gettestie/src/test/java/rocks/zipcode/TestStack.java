@@ -20,5 +20,7 @@ public class TestStack {
         assertEquals(false, stack.isEmpty()); // false
     }
 
-    // Make a bigger test exercising more Stack methods.....
+    //add additional test for push?
+
+    //add tests for pop, peek, isEmpty
 }
