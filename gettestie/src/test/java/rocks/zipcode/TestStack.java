@@ -21,8 +21,6 @@ public class TestStack {
         assertEquals(false, stack.isEmpty()); // false
     }
 
-    //add additional test for push?
-    //add tests for pop, peek, isEmpty
     @Test
     public void TestStack2() {
         Stack<String> stack = new Stack<>();
